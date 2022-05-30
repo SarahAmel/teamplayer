@@ -1,6 +1,6 @@
 // require the employee from the lib folder//
 
-const 
+const  Employee = require("../lib/Employee");
 
 
 
@@ -9,7 +9,24 @@ const
 //test can begin employee instance //
 
 
+describe("Employee",()=>{
 
+
+it ("Begin the instance of employee", () =>{
+
+const e = new Employee();
+expect(new Employee(e)) .toBe("object")
+
+});
+
+it("Can set a name with the constructor arguments",()=>{
+
+    const name = "Vandelay";
+    const e = new Employee (name);
+    expect (e.name) .toBe(name);
+})
+
+})
 
 
 // test can set a name via constructor args //
