@@ -13,7 +13,7 @@
 
 # Description
 
-This app runs in the browser and lineaments dynamically updated HTML and designed eloquently by CSS.Powered by js,
+This app runs in the browser and lineaments dynamically updated HTML and designed eloquently by CSS.Powered by js. 
 
 # Navigation
 IVEN a command-line application that accepts user input
