@@ -1,7 +1,5 @@
 # teamplayer
 
-# codequiz
-
 # Table of Contents
 • Description
 
@@ -15,44 +13,41 @@
 
 # Description
 
+This app runs in the browser and lineaments dynamically updated HTML and designed eloquently by CSS.Powered by js,
 
-This app runs in the browser and lineaments dynamically updated HTML and designed eloquently by CSS and is powered by js. 
-
-The user will be able to take a quiz to test their knowledge about super cars.
-
-A time deduction is in place if a question is answered wrong.
-
-The user can save, view, or delete their high scores. 
 # Navigation
-The user will be given notice of a time deduction rule on the homepage as well as the option to click the begin button to start the quiz. The high scores will be in the left and the time will be displayed on the right.
-
-Once the user clicks the begin button found on the bottom of the page the user will be automatically given a of qustion about super cars.
-
-The quiz will change the question and set of answers as soon as the user clicks an answer to the question given.
-
-The user will notice the time in the right cornner change if the user gets a deduction due to choosing the wrong answer.
-
-Once the user is finished they are given notice to input their initals in a box in which they will submit.
-
-Once submitted the user will be redirected to a new page will the high scores.
-
-If the user wants to view the scores they got previosly or clear there scores due to embarrassment no worries they just simply need to click clear high scores then click the back button. The user will be redirected to the home page.
-
+IVEN a command-line application that accepts user input
+WHEN I am prompted for my team members and their information
+THEN an HTML file is generated that displays a nicely formatted team roster based on user input
+WHEN I click on an email address in the HTML
+THEN my default email program opens and populates the TO field of the email with the address
+WHEN I click on the GitHub username
+THEN that GitHub profile opens in a new tab
+WHEN I start the application
+THEN I am prompted to enter the team manager’s name, employee ID, email address, and office number
+WHEN I enter the team manager’s name, employee ID, email address, and office number
+THEN I am presented with a menu with the option to add an engineer or an intern or to finish building my team
+WHEN I select the engineer option
+THEN I am prompted to enter the engineer’s name, ID, email, and GitHub username, and I am taken back to the menu
+WHEN I select the intern option
+THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
+WHEN I decide to finish building my team
+THEN I exit the application, and the HTML is generated
 
 
 # Screenshot of site
 <!-- add the right screenshot -->
-![screenshot](./assets/images/sshot.png)
+![screenshot](./assets/images/teampalyerss.png)
 
 # Links
 
 <!-- add the correct link in the () -->
 
-[Repo link](https://github.com/SarahAmel/codequiz/)   
+[Repo link](https://github.com/SarahAmel/teamplayer/)   
 
 
 
-[Live link](https://sarahamel.github.io/codequiz/)
+[Live link](http://localhost:52330/dist/index.html/)
 
 
 
