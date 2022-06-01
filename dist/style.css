@@ -1,0 +1,47 @@
+.team-heading {
+    background-color: #0bd8e7;
+    color: #ec60c4;
+    font-size: 20px;
+  }
+  
+  .team-area {
+    max-width: 1000px;
+    margin: 3em auto;
+    flex-wrap: wrap;
+  }
+  
+  .employee-card {
+    margin: 1em;
+    max-width: 280px;
+    width: 90%;
+    min-height: 22rem;
+    background-color: #1ad0ec;
+    color: rgb(230, 68, 198);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 4px 4px 8px rgba(38, 236, 233, 0.7);
+    border: none;
+  }
+  
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #ec8dcc;
+  }
+  
+  .list-group-item {
+    color: #de2ecc;
+    text-decoration: none;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
