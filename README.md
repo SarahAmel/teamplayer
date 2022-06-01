@@ -37,7 +37,7 @@ THEN I exit the application, and the HTML is generated
 
 # Screenshot of site
 <!-- add the right screenshot -->
-![screenshot](./assets/images/teampalyerss.png)
+![screenshot](/assets/images/teamplayerss.png)
 
 # Links
 
