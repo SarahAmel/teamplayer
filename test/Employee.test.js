@@ -18,7 +18,7 @@ expect(new Employee(e)) .toBe("object");
 
 it("Can set a name with the constructor arguments",()=>{
 
-    const name = "Vandelay";
+    const name = "Bobby brown";
     const e = new Employee (name);
     expect (e.name) .toBe(name);
 });
@@ -30,7 +30,7 @@ it("Can set a name with the constructor arguments",()=>{
 
 it("can set a name with the constructor arguments",()=>{
 
-const Name = "Bobby Brown";
+const Name = "Bobby brown";
 const e = new Employeev( Name );
 expect(e.Name) .toBe(Name);
 
@@ -41,7 +41,7 @@ expect(e.Name) .toBe(Name);
 it ("set id with constructor arguments", () =>{
 
     const idNumber = 111;
-    const e = new Employee("Bobby Brown",idNumber);
+    const e = new Employee("Bobby brown",idNumber);
     expect(e.id) .toBe(idNumber);
 });
 
@@ -50,7 +50,7 @@ it ("set id with constructor arguments", () =>{
 
 it ("getEmail", () =>{
 const getEmail = "123654@email.com";
-    const e = new Employee("Bobby Brown","111",getEmail);
+    const e = new Employee("bobby brown","111",getEmail);
     expect(e.email()) .toBe(getEmail);
 });
 
