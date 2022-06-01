@@ -29,7 +29,7 @@ This app runs in the browser and lineaments dynamically updated HTML and designe
 
 
 
-[Live link](https://github.com/SarahAmel/teamplayer/dist/index.html)
+[Live link](https://github.com/SarahAmel/teamplayer/blob/main/dist/index.html)
 
 
 
